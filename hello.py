@@ -1,5 +1,5 @@
 """A simple Python script that greets the user."""
-
+# new change
 
 def greet(name: str) -> str:
     """Return a greeting message."""
